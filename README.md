@@ -9,11 +9,12 @@ This is a fun project, don't sue us
 ### Authors
 
 
-*Page: page, location: location*
-> Quote
 
-*Page: page, location: location*
 > Quote
+*          Page: page, location: location*
+
+> Quote
+*          Page: page, location: location*'
 
 ---
 
