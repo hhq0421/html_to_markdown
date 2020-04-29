@@ -11,10 +11,12 @@ This is a fun project, don't sue us
 
 
 > Quote
-*          Page: page, location: location*
+
+          *Page: page, location: location*
 
 > Quote
-*          Page: page, location: location*'
+
+          *Page: page, location: location*
 
 ---
 
