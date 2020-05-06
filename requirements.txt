@@ -4,4 +4,3 @@ flask
 mysql.connector
 flask_bootstrap
 joblib
-re
