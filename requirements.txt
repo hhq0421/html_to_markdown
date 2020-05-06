@@ -4,3 +4,4 @@ flask
 mysql.connector
 flask_bootstrap
 joblib
+flask-migrate
